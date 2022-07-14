@@ -18,3 +18,5 @@ sthing interesting: github c4tbu1, github toomhufm, codeforces, ntucoder, hacker
 HackTheBox, tryhackme, rootme
 
 [Blog about "How to begin cybersec"](https://blog.cyberjutsu.io/2021/08/09/hoc-an-toan-thong-tin/)
+
+[Blockchain shits](https://github.com/Envoy-VC/blockend-developer-roadmap)
