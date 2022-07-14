@@ -1,4 +1,4 @@
-# **WEBSITE, LINKS, TOOLS, DOCUMENTS, etc**
+# **WEBSITES, LINKS, TOOLS, DOCUMENTS, etc**
 
 [Programming stuffs](https://drive.google.com/drive/folders/1DudGaewkx-0nCiwiUr1sx0sdk0UCG7US)
 
