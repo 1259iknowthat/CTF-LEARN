@@ -9,7 +9,7 @@ dcode tool
 - base64
 
 openssl to en/decrypt
-- salt: is the thing which people add it to make an encryption harder and safer
+- salt: is the thing which people add to make an encryption harder and safer
 
 Encryption:
 - aes-256
