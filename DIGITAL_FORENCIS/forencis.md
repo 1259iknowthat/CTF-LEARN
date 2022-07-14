@@ -10,3 +10,6 @@ png
 - PCRT tool
 
 "sh" command to do sthing with .shar file type
+
+side channel
+- timing-based attack 
