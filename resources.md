@@ -20,3 +20,5 @@ HackTheBox, tryhackme, rootme
 [Blog about "How to begin cybersec"](https://blog.cyberjutsu.io/2021/08/09/hoc-an-toan-thong-tin/)
 
 [Blockchain shits](https://github.com/Envoy-VC/blockend-developer-roadmap)
+
+![pic](https://github.com/1259iknowthat/CTF-LEARN/blob/main/PICTURES/sec1.png "offensive-cybersecurity")
