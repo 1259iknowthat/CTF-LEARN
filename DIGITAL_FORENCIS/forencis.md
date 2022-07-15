@@ -1,6 +1,8 @@
 #
 #
 #
+[cheat sheet](https://www.jaiminton.com/cheatsheet/DFIR/#)
+
 torrent
 - info_hash
 - hash to file (crack hash ?/searching method)
