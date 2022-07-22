@@ -4,7 +4,7 @@
 
 [Web dictionary](https://developer.mozilla.org/en-US/)
 
-sthing interesting: github c4tbu1, github toomhufm, codeforces, ntucoder, hackerrank, leetcode, luyencode, codelearn, codecademy
+sthing interesting: [github c4tbu1](https://github.com/c4tbu1), github toomhufm, codeforces, ntucoder, hackerrank, leetcode, luyencode, codelearn, codecademy
 
 [Assembly programming 1](https://www.youtube.com/watch?v=GHVnLG1nuvA) 
 [2](https://classroom.google.com/c/MzM4OTM1MzAxNDM4?cjc=yxb6vys)
@@ -23,4 +23,5 @@ HackTheBox, tryhackme, rootme
 
 ![pic](https://github.com/1259iknowthat/CTF-LEARN/blob/main/PICTURES/sec1.png "offensive-cybersecurity")
 
-nmap
+nmap to scan port
+codename hostname
