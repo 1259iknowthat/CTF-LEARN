@@ -34,4 +34,10 @@ fotoforencis website
 
 volitality tool to seek dump ?
 
+sherlock to get infos about user names
+
+ftp in wireshark
+
+polkit is the package service 
+
 
